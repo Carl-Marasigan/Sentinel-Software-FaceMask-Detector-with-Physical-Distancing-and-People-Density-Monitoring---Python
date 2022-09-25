@@ -21,10 +21,12 @@ YOLOv4 prioritizes real-time object detection and training. The researchers sele
 
 **Simulation of Sentinel Monitoring Software**
 
-![image](https://user-images.githubusercontent.com/90967308/192127932-3df7302c-6bbb-498f-8c4e-e234cfa9441f.png)
-![image](https://user-images.githubusercontent.com/90967308/192127936-f6e1edea-9ffd-4202-b484-2916a27333a8.png)
-![image](https://user-images.githubusercontent.com/90967308/192127938-224d0f09-e17b-404d-b446-26ba74afa3a3.png)
-![image](https://user-images.githubusercontent.com/90967308/192128001-a91bcfbd-6a7f-46c9-8bc1-11d5ec79554e.png)
+
+![Image2](https://user-images.githubusercontent.com/90967308/192131773-dde6f3e1-fd03-4bac-8f5d-613889fd87a7.png)
+![testimage 2 1](https://user-images.githubusercontent.com/90967308/192131776-5ae9ce2f-54bf-4077-8321-34bc5442b90b.png)
+![Testing-2](https://user-images.githubusercontent.com/90967308/192131780-752da633-5a44-40fb-9ea0-e3c586922b47.png)
+![Image4](https://u![testimage 2 2](https://user-images.githubusercontent.com/90967308/192131789-75737861-2cc3-4f99-a652-52485edcd020.png)
+![testimage 2 2](https://user-images.githubusercontent.com/90967308/192131794-46876d08-21c9-4ad7-86ac-8a56e555fd16.png)
 ![Untitled](https://user-images.githubusercontent.com/90967308/192127966-c4a8485a-dcc2-4fcd-8c6b-29ac14fa7de1.png)
 
 **Developers of Sentinel Monitoring Software**
