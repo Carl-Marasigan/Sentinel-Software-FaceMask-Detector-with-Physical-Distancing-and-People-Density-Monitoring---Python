@@ -28,8 +28,6 @@ YOLOv4 prioritizes real-time object detection and training. The researchers sele
 
 ![Testing-2](https://user-images.githubusercontent.com/90967308/192131780-752da633-5a44-40fb-9ea0-e3c586922b47.png)
 
-![Image4](https://u![testimage 2 2](https://user-images.githubusercontent.com/90967308/192131789-75737861-2cc3-4f99-a652-52485edcd020.png)
-
 ![Untitled](https://user-images.githubusercontent.com/90967308/192127966-c4a8485a-dcc2-4fcd-8c6b-29ac14fa7de1.png)
 
 **Developers of Sentinel Monitoring Software**
