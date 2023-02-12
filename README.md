@@ -34,7 +34,7 @@ YOLOv4 prioritizes real-time object detection and training. The researchers sele
 
 <a href=https://github.com/Carl-Marasigan/Carl-Marasigan>Carl Joseph Marasigan</a>  
 
-Neil Christian Go 
+<a href=https://github.com/Nichigo-GitHub>Neil Christian Go</a> 
 
 Joshua Ponce Coning
 
