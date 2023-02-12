@@ -32,7 +32,7 @@ YOLOv4 prioritizes real-time object detection and training. The researchers sele
 
 **Developers of Sentinel Monitoring Software**
 
-Carl Joseph Marasigan (https://github.com/Carl-Marasigan/Carl-Marasigan)
+<a href=https://github.com/Carl-Marasigan/Carl-Marasigan>Carl Joseph Marasigan</a>  
 
 Neil Christian Go 
 
